@@ -31,6 +31,7 @@ fun main(){
     val theo = faculty("Theo", 20, "SJA", 3125412)
 
 
+
     fred.greet()
     angel2.greet()
     theo.greet()

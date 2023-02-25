@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04feb64d-93e9-4219-bee4-dc83f40e2428" name="Changes" comment="git remote add origin https://github.com/KyunnDayo/Kotlin-InheritanceTest1.git&#10;git branch -M main&#10;git push -u origin main" />
+    <list default="true" id="04feb64d-93e9-4219-bee4-dc83f40e2428" name="Changes" comment="git commit">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677326391282</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git commit">
+      <created>1677327240952</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677327240952</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,8 +76,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="git commit" />
     <MESSAGE value="git remote add origin https://github.com/KyunnDayo/Kotlin-InheritanceTest1.git&#10;git branch -M main&#10;git push -u origin main" />
-    <option name="LAST_COMMIT_MESSAGE" value="git remote add origin https://github.com/KyunnDayo/Kotlin-InheritanceTest1.git&#10;git branch -M main&#10;git push -u origin main" />
+    <MESSAGE value="git commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit" />
   </component>
 </project>

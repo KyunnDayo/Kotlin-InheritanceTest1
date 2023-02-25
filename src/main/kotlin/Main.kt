@@ -1,4 +1,5 @@
 //import java.util.Scanner
+//KYUNNDAYO-022523
 
 open class person(val name: String, val age: Int){
     open fun greet(){
@@ -28,6 +29,7 @@ fun main(){
     val angel = classMate("Angel", 20, "MedTech")
     val angel2 = diffUni("Angel",20, "DLSM-HSI", "MLS-21")
     val theo = faculty("Theo", 20, "SJA", 3125412)
+
 
     fred.greet()
     angel2.greet()

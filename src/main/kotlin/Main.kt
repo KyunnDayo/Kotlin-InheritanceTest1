@@ -1,4 +1,4 @@
-import java.util.Scanner
+//import java.util.Scanner
 
 open class person(val name: String, val age: Int){
     open fun greet(){
